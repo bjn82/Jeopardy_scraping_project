@@ -4,8 +4,8 @@ A Webscraping project where we used selenium and chromedriver to scrape past Jeo
 This was done as a presentation in a jupyter notebook using the notebook extension RISE, as well as a few other things. 
 
 ## Authors: 
-* Matthew Heckman 
-* Brennan James Donnell 
+* [Brennan James Donnell](https://www.linkedin.com/in/brennan-donnell-112066165/)
+* [Matthew Heckman](https://www.linkedin.com/in/matthew-heckman-772b77167/) 
 
 ## Credits: 
 * Arvind Narayan for *bayesText.py*
