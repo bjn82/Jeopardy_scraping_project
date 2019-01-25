@@ -1,0 +1,1 @@
+It's a miniature version of an image on a computer screen that when clicked on will load the full-size image

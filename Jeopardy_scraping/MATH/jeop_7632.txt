@@ -1,0 +1,2 @@
+Also a type of equation, it describes functions of the form
+f(x) = ax² + bx + c

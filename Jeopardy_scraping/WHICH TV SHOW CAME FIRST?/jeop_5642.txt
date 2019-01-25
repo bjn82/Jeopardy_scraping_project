@@ -1,0 +1,3 @@
+"Batman",
+"The Amazing Spider-Man",
+"The Adventures of Superman"

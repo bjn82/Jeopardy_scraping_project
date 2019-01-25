@@ -1,0 +1,1 @@
+On a graph, the derivative of a function is this, which all lines except vertical ones have

@@ -1,0 +1,1 @@
+The temperature on this scale is 273.15 degrees lower than the temperature on the Kelvin scale

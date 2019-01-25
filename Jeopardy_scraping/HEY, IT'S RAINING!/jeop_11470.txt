@@ -1,0 +1,1 @@
+A raindrop's shape depends on its size; one with a diameter of less than .04 inch is basically this shape

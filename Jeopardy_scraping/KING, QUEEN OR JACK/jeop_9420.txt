@@ -1,0 +1,1 @@
+In checkers, the dark squares farthest from a player form this row

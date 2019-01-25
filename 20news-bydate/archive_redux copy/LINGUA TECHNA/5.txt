@@ -1,0 +1,1 @@
+Measured in bits per second, it's how much data can be sent through a connection (or the size of a ring)

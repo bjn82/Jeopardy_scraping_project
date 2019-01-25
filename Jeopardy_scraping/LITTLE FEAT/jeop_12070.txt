@@ -1,0 +1,1 @@
+Expressed as a 1 or a 0, it's the smallest unit of information storable on a computer

@@ -1,0 +1,1 @@
+These 2 coordinates are used to locate a point in a 2 dimensional Cartesian, or coordinate, system

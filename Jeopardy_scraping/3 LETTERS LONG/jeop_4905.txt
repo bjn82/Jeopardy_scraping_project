@@ -1,0 +1,1 @@
+This port lets you plug in a whole host of peripheral devices

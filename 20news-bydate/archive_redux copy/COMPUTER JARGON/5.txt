@@ -1,0 +1,1 @@
+"VoIP" means this type of "Internet protocol" to make phone calls over the web

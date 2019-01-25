@@ -1,0 +1,1 @@
+The atomic clock introduced in 1955, as well as the more recent NIST F-1 model, use atoms of this element

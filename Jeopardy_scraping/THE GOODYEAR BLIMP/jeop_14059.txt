@@ -1,0 +1,1 @@
+Air-filled ballonets control how much this gas is allowed to expand in the envelope

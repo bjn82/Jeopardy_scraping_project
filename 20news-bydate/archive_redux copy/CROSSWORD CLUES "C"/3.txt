@@ -1,0 +1,2 @@
+An exact duplicate
+(6, 4)

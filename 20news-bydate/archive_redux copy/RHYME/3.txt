@@ -1,0 +1,1 @@
+It's the lottery option that lets the computer randomly select some numbers

@@ -1,0 +1,1 @@
+Items at an auction are "sold to the highest" one

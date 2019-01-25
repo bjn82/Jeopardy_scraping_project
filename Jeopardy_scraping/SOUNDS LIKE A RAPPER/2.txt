@@ -1,0 +1,1 @@
+It opens every one of a given set of locks

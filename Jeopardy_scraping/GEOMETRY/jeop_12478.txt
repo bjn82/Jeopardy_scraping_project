@@ -1,0 +1,1 @@
+To get this quadrilateral's area, add the 2 parallel sides, divide by 2 & multiply by the height

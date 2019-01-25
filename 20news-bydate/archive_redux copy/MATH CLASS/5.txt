@@ -1,0 +1,1 @@
+Raising a number to the second power is squaring it; raising it to the third power is this

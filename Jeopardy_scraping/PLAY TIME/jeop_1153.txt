@@ -1,0 +1,1 @@
+A Parcheesi player begins with 4 pieces & can move a maximum of this many of them on one roll of the dice

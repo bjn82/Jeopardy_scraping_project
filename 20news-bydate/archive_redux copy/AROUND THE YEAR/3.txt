@@ -1,0 +1,1 @@
+To get the year on this calendar, add 3,760 to our year (or 3,761 if it's after Rosh Hashanah)

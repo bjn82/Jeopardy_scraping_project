@@ -1,0 +1,3 @@
+Newsweek,
+Esquire,
+Consumer Reports

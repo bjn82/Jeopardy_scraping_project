@@ -1,0 +1,1 @@
+Filemaker Pro is used for this type of application that stores & organizes information (like "Jeopardy!" clues)

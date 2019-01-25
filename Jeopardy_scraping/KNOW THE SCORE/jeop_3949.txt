@@ -1,0 +1,1 @@
+A single one marks the end of a segment; a double one marks the end of a section or work

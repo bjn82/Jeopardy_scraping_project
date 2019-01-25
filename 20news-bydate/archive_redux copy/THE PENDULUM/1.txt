@@ -1,0 +1,1 @@
+This device uses an adjustable pendulum to indicate a given musical tempo either visually or aurally

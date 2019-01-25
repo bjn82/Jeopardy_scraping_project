@@ -1,0 +1,1 @@
+Polynomials & coefficients are used in this branch of math

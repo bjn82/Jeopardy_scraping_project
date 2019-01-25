@@ -1,0 +1,1 @@
+When it moves this piece will always wind up on the same color square that it began the game on

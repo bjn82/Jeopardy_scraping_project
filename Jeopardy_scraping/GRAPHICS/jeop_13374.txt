@@ -1,0 +1,1 @@
+One paragraph seen here is right ragged, the other is right this, also called aligned & flush

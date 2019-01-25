@@ -1,0 +1,1 @@
+This adjective that precedes "server" refers to a server that is an intermediary between a user & a client

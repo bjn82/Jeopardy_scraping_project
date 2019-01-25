@@ -1,0 +1,3 @@
+Vientiane,
+Hanoi,
+Phnom Penh

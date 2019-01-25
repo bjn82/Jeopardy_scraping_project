@@ -1,0 +1,1 @@
+sec is short for second & nsec is this, one-billionth of a second
